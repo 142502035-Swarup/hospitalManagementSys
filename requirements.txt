@@ -1,0 +1,6 @@
+java
+postgres
+JDBC
+tools:
+  IntelliJ or Eclipse
+  PgAdmin4
